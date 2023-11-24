@@ -1,0 +1,15 @@
+.Student {
+    color: fuchsia;
+    font-size: 20px;
+    background-color: black;
+}
+.Course{
+    color: aqua;
+    font-size: 25px;
+    background-color: purple;
+}
+.Billing{
+    color: brown;
+    font-size: 30px;
+    background-color: cornflowerblue;
+}
